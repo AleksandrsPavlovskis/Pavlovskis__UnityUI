@@ -1,26 +1,30 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CategoryToggleUI : MonoBehaviour
 {
+    [Header("Toggles")]
+    [SerializeField] private Toggle hatsToggle;
+    [SerializeField] private Toggle bootsToggle;
+
+    [Header("Categories")]
     [SerializeField] private GameObject hatsCategory;
     [SerializeField] private GameObject bootsCategory;
 
-    [SerializeField] private bool hatsOnAtStart = true;
-    [SerializeField] private bool bootsOnAtStart = true;
-
     private void Start()
     {
-        ToggleHats(hatsOnAtStart);
-        ToggleBoots(bootsOnAtStart);
+        ApplyAll(); 
     }
 
-    public void ToggleHats(bool isOn)
+    public void ApplyAll()
     {
-        if (hatsCategory != null) hatsCategory.SetActive(isOn);
+        if (hatsCategory != null && hatsToggle != null)
+            hatsCategory.SetActive(hatsToggle.isOn);
+
+        if (bootsCategory != null && bootsToggle != null)
+            bootsCategory.SetActive(bootsToggle.isOn);
     }
 
-    public void ToggleBoots(bool isOn)
-    {
-        if (bootsCategory != null) bootsCategory.SetActive(isOn);
-    }
+    public void OnHatsChanged(bool _) => ApplyAll();
+    public void OnBootsChanged(bool _) => ApplyAll();
 }

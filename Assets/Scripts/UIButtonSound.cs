@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class UIButtonSound : MonoBehaviour
 {
-    public AudioSource audioSource;
+    public AudioSource clickAudioSource;
 
     public void PlayClick()
     {
-        audioSource.Play();
+        clickAudioSource.Play();
     }
 }

@@ -43,7 +43,7 @@ Izstrādāt lietotni, kurā lietotājs var:
 - [x] Ieviest audio efektus  
 - [x] Pievienot tēlu aprakstu Scroll View logā  
 - [x] Ieviest tēla izmēru maiņu ar Slider elementiem  
-- [ ] Eksportēt projektu Windows OS vai WebGL platformai  
+- [x] Eksportēt projektu Windows OS vai WebGL platformai  
 
 
 ## Autors
