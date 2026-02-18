@@ -40,7 +40,7 @@ Izstrādāt lietotni, kurā lietotājs var:
 - [x] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
 - [x] Izveidot C# skriptu darbam ar UI attēliem  
 - [x] Izveidot C# skriptu drag & drop funkcionalitātei  
-- [ ] Ieviest audio efektus  
+- [x] Ieviest audio efektus  
 - [x] Pievienot tēlu aprakstu Scroll View logā  
 - [x] Ieviest tēla izmēru maiņu ar Slider elementiem  
 - [ ] Eksportēt projektu Windows OS vai WebGL platformai  
