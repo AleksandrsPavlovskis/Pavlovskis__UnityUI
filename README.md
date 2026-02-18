@@ -32,14 +32,14 @@ Izstrādāt lietotni, kurā lietotājs var:
 - [x] Izmēģināt UI Text lietojumu  
 - [x] Izmēģināt UI Input Field lietojumu  
 - [x] Izmēģināt UI Panel lietojumu  
-- [ ] Izmēģināt UI Image lietojumu  
+- [x] Izmēģināt UI Image lietojumu  
 - [x] Izmēģināt UI Slider lietojumu  
 - [x] Izmēģināt UI Toggle lietojumu  
 - [x] Izmēģināt UI Dropdown lietojumu  
 - [x] Izmēģināt UI Scroll View lietojumu  
 - [x] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
 - [x] Izveidot C# skriptu darbam ar UI attēliem  
-- [ ] Izveidot C# skriptu drag & drop funkcionalitātei  
+- [x] Izveidot C# skriptu drag & drop funkcionalitātei  
 - [ ] Ieviest audio efektus  
 - [x] Pievienot tēlu aprakstu Scroll View logā  
 - [x] Ieviest tēla izmēru maiņu ar Slider elementiem  
