@@ -27,15 +27,15 @@ Izstrādāt lietotni, kurā lietotājs var:
 
 - [x] Sagatavot projektu versionēšanai GitHub  
 - [x] Izveidot galvenās izvēlnes ainu (Main Menu)  
-- [ ] Nodrošināt pārslēgšanos starp ainām  
-- [ ] Izmēģināt UI Button lietojumu  
-- [ ] Izmēģināt UI Text lietojumu  
-- [ ] Izmēģināt UI Input Field lietojumu  
-- [ ] Izmēģināt UI Panel lietojumu  
+- [x] Nodrošināt pārslēgšanos starp ainām  
+- [x] Izmēģināt UI Button lietojumu  
+- [x] Izmēģināt UI Text lietojumu  
+- [x] Izmēģināt UI Input Field lietojumu  
+- [x] Izmēģināt UI Panel lietojumu  
 - [ ] Izmēģināt UI Image lietojumu  
 - [ ] Izmēģināt UI Slider lietojumu  
 - [ ] Izmēģināt UI Toggle lietojumu  
-- [ ] Izmēģināt UI Dropdown lietojumu  
+- [x] Izmēģināt UI Dropdown lietojumu  
 - [ ] Izmēģināt UI Scroll View lietojumu  
 - [ ] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
 - [ ] Izveidot C# skriptu darbam ar UI attēliem  
