@@ -26,7 +26,7 @@ Izstrādāt lietotni, kurā lietotājs var:
 **Darāmo darbu saraksts**
 
 - [x] Sagatavot projektu versionēšanai GitHub  
-- [ ] Izveidot galvenās izvēlnes ainu (Main Menu)  
+- [x] Izveidot galvenās izvēlnes ainu (Main Menu)  
 - [ ] Nodrošināt pārslēgšanos starp ainām  
 - [ ] Izmēģināt UI Button lietojumu  
 - [ ] Izmēģināt UI Text lietojumu  
