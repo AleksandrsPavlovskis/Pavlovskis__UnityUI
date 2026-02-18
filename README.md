@@ -37,7 +37,7 @@ Izstrādāt lietotni, kurā lietotājs var:
 - [ ] Izmēģināt UI Toggle lietojumu  
 - [x] Izmēģināt UI Dropdown lietojumu  
 - [ ] Izmēģināt UI Scroll View lietojumu  
-- [ ] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
+- [x] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
 - [ ] Izveidot C# skriptu darbam ar UI attēliem  
 - [ ] Izveidot C# skriptu drag & drop funkcionalitātei  
 - [ ] Ieviest audio efektus  
