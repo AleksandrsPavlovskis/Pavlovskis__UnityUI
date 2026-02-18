@@ -36,12 +36,12 @@ Izstrādāt lietotni, kurā lietotājs var:
 - [ ] Izmēģināt UI Slider lietojumu  
 - [ ] Izmēģināt UI Toggle lietojumu  
 - [x] Izmēģināt UI Dropdown lietojumu  
-- [ ] Izmēģināt UI Scroll View lietojumu  
+- [x] Izmēģināt UI Scroll View lietojumu  
 - [x] Izveidot C# skriptu darbam ar tekstu (vārds + vecuma aprēķins)  
 - [x] Izveidot C# skriptu darbam ar UI attēliem  
 - [ ] Izveidot C# skriptu drag & drop funkcionalitātei  
 - [ ] Ieviest audio efektus  
-- [ ] Pievienot tēlu aprakstu Scroll View logā  
+- [x] Pievienot tēlu aprakstu Scroll View logā  
 - [ ] Ieviest tēla izmēru maiņu ar Slider elementiem  
 - [ ] Eksportēt projektu Windows OS vai WebGL platformai  
 
